@@ -28,12 +28,13 @@ addon | version | maintainers | summary
 [base_location_geonames_import](base_location_geonames_import/) | 15.0.1.0.3 |  | Import zip entries from Geonames
 [base_location_nuts](base_location_nuts/) | 15.0.1.0.1 |  | NUTS Regions
 [base_partner_company_group](base_partner_company_group/) | 15.0.1.1.1 |  | Adds the possibility to add a company group to a company
-[base_partner_sequence](base_partner_sequence/) | 15.0.1.0.2 |  | Sets customer's code from a sequence
+[base_partner_sequence](base_partner_sequence/) | 15.0.1.1.0 |  | Sets customer's code from a sequence
 [crm_partner_company_group](crm_partner_company_group/) | 15.0.1.0.0 |  | Adds the possibility to add a company group to a company
 [partner_address_street3](partner_address_street3/) | 15.0.1.0.0 |  | Add a third address line on partners
 [partner_affiliate](partner_affiliate/) | 15.0.1.0.0 |  | Partner Affiliates
 [partner_bank_code](partner_bank_code/) | 15.0.1.0.0 |  | Add fields information in banks
 [partner_capital](partner_capital/) | 15.0.0.1.0 |  | Partners Capital
+[partner_coc](partner_coc/) | 15.0.1.0.0 | [![bosd](https://github.com/bosd.png?size=30px)](https://github.com/bosd) | Adds field 'Chamber Of Commerce Registration Number'
 [partner_company_default](partner_company_default/) | 15.0.1.0.1 |  | Partner Company Default
 [partner_company_group](partner_company_group/) | 15.0.2.0.0 |  | Adds the possibility to add a company group to a company
 [partner_company_type](partner_company_type/) | 15.0.1.0.1 |  | Adds a company type to partner that are companies
@@ -64,20 +65,21 @@ addon | version | maintainers | summary
 [partner_identification](partner_identification/) | 15.0.1.0.0 |  | Partner Identification Numbers
 [partner_industry_parent](partner_industry_parent/) | 15.0.1.0.0 |  | This module add a parent relation to the partner industry
 [partner_industry_secondary](partner_industry_secondary/) | 15.0.1.0.0 |  | Add secondary partner industries
+[partner_label](partner_label/) | 15.0.1.0.0 |  | Print partner labels
 [partner_manual_rank](partner_manual_rank/) | 15.0.1.1.1 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) [![frahikLV](https://github.com/frahikLV.png?size=30px)](https://github.com/frahikLV) | Be able to manually flag partners as customer or supplier.
 [partner_multi_relation](partner_multi_relation/) | 15.0.1.0.1 |  | Partner Relations
 [partner_name_hide_parent](partner_name_hide_parent/) | 15.0.1.0.0 |  | Partner Name Hide Parent
 [partner_phone_extension](partner_phone_extension/) | 15.0.1.0.1 |  | Partner Phone Number Extension
 [partner_phone_secondary](partner_phone_secondary/) | 15.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Adds a secondary phone number on partners
 [partner_phonecall_schedule](partner_phonecall_schedule/) | 15.0.1.0.2 |  | Track the time and days your partners expect phone calls
-[partner_pricelist_search](partner_pricelist_search/) | 15.0.1.0.0 |  | Partner pricelist search
+[partner_pricelist_search](partner_pricelist_search/) | 15.0.2.0.0 |  | Partner pricelist search
 [partner_pricelist_tracking](partner_pricelist_tracking/) | 15.0.1.0.0 |  | Track partner pricelist changes
 [partner_priority](partner_priority/) | 15.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Adds priority to partners.
-[partner_ref_unique](partner_ref_unique/) | 15.0.1.0.0 |  | Add an unique constraint to partner ref field
+[partner_ref_unique](partner_ref_unique/) | 15.0.1.0.2 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Add an unique constraint to partner ref field
 [partner_second_lastname](partner_second_lastname/) | 15.0.1.0.0 |  | Have split first and second lastnames
 [partner_stage](partner_stage/) | 15.0.1.0.0 | [![dreispt](https://github.com/dreispt.png?size=30px)](https://github.com/dreispt) | Add lifecycle Stages to Partners
 [partner_supplierinfo](partner_supplierinfo/) | 15.0.1.0.0 |  | Management of partner reference equivalences
-[partner_vat_unique](partner_vat_unique/) | 15.0.1.0.1 |  | Module to make the VAT number unique for customers and suppliers.
+[partner_vat_unique](partner_vat_unique/) | 15.0.1.0.3 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Module to make the VAT number unique for customers and suppliers.
 [portal_partner_data_no_edit](portal_partner_data_no_edit/) | 15.0.1.0.0 |  | Portal Partner Block Data Edit
 [res_partner_journal_items_link](res_partner_journal_items_link/) | 15.0.1.0.0 |  | Adds a smart button to grant direct access to their accounting notes
 [sale_partner_company_group](sale_partner_company_group/) | 15.0.1.0.2 |  | Adds the possibility to add a company group to a company
